@@ -30,16 +30,6 @@
 
 <br>
 
-## 🖥 화면 미리보기 (Screenshots)
-
-*(여기에 앱 실행 화면이나 아이패드에서 구동되는 캡처 이미지를 넣어주세요)*
-
-| 기본 화면 (빈 도감) | 목표 색상 힌트 팝업 | 색상 채우기 성공 |
-| :---: | :---: | :---: |
-| `<img src="이미지링크1" width="250">` | `<img src="이미지링크2" width="250">` | `<img src="이미지링크3" width="250">` |
-
-<br>
-
 ## 🛠 기술 스택 및 구조 (Tech Stack)
 
 * **Frontend**: HTML5, CSS3, Vanilla JavaScript (ES6+)
